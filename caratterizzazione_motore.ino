@@ -4,10 +4,7 @@
 #define PIN_IN2   2
 #define PIN_PWM   3
 #define PIN_ENC_A 4
-#define PIN_ENC_B 5
-
-unsigned long tempo;
-int countRPM;
+#define PIN_ENC_B 5 
 
 void setup() {
   // SERIALE
