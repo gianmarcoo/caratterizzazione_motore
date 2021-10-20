@@ -6,9 +6,6 @@
 #define PIN_ENC_A 4
 #define PIN_ENC_B 5
 
-// CONFIGURAZIONE TEMPO
-#define DT 0
-
 unsigned long tempo;
 int countRPM;
 
